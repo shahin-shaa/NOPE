@@ -22,9 +22,9 @@ align-items: center;
 }
 #style{
   display: flex;
-  background-color: orange;
+  background-color: rgb(255, 253, 253);
   width: 325px;
-  height: 400px;
+  height: 415px;
   justify-content: center;
   align-items: center;
   border-radius: 10px;
@@ -32,4 +32,17 @@ align-items: center;
 #brand{
   text-align: center;
   font-weight: bolder;
+}
+#footer{
+  padding-top: 28px;
+}
+#btn{
+border: none;
+background-color:rgb(255, 253, 253);
+color: rgb(36, 90, 206);
+font-size: 17px;
+padding-left: 0px;
+padding-bottom: 13px;
+font-weight: bolder;
+
 }
